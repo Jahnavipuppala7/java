@@ -6,7 +6,6 @@ class Main
     {
         Scanner sc=new Scanner(System.in);
         int r=sc.nextInt();
-        int area;
         System.out.println(3.14*r*r);
     }
 }
